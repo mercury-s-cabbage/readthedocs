@@ -6,12 +6,11 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use Lumachethis test project, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
-
+   (.venv) $ pip install readTheDocs
 Creating recipes
 ----------------
 
@@ -27,7 +26,6 @@ will raise an exception.
 .. autoexception:: lumache.InvalidKindError
 
 For example:
-
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
