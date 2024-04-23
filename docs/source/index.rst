@@ -1,4 +1,4 @@
-Welcome to Lena's  test documentation!
+ Welcome to Lena's  test documentation!
 ===================================
 
 Check out the :doc:`usage` section for further information, including
